@@ -2,3 +2,4 @@ base:
   '*':
     - first
     - ssh
+    - apache
